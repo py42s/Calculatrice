@@ -100,7 +100,7 @@ input {
 #delete:hover {
   background-color: rgb(224, 91, 91);
 }
-@media (max-width: 786px) {
+@media (max-width: 716px) {
   main {
     padding-top: 20%;
     padding-bottom: 20%;
